@@ -1,0 +1,66 @@
+Q1: Explain how Edge AI reduces latency and enhances privacy compared to cloud-based AI. Provide a real-world example (e.g., autonomous drones).
+Answer:
+Edge AI refers to running AI algorithms directly on local devices (the “edge”), such as smartphones, sensors, or drones, rather than sending data to distant cloud servers for processing.
+
+By processing data locally, Edge AI reduces latency because there is no need for data to travel over the internet to a central server and back. This is critical for applications that need real-time decision-making, such as autonomous drones avoiding obstacles mid-flight. Even a slight delay could cause accidents.
+
+Edge AI also enhances privacy by keeping sensitive data on the device instead of transmitting it to the cloud. For example, a security camera using Edge AI can analyze video footage on-site and only send alerts or anonymized data, reducing the risk of personal data breaches.
+
+Real-world example: Autonomous drones for search-and-rescue missions can use Edge AI to process live camera feeds, detect people, and navigate hazards instantly, even in remote areas with poor connectivity.
+
+Q2: Compare Quantum AI and classical AI in solving optimization problems. What industries could benefit most from Quantum AI?
+Answer:
+Classical AI relies on conventional computers, which solve optimization problems by searching possible solutions sequentially or with heuristic algorithms. These problems become increasingly complex as variables grow — for example, optimizing delivery routes for thousands of trucks.
+
+Quantum AI, by combining quantum computing with AI, can process multiple states simultaneously using quantum bits (qubits). This allows it to solve certain complex optimization problems exponentially faster than classical AI.
+
+Industries that could benefit most include:
+
+Logistics & Transportation: Optimizing supply chains and delivery routes with vast combinations.
+
+Finance: Portfolio optimization and risk analysis for large datasets.
+
+Energy: Optimizing power grid operations for efficiency and sustainability.
+
+Pharmaceuticals: Faster drug discovery by simulating molecules and reactions.
+
+Quantum AI is still developing, but its potential to handle combinatorial problems could be transformative for these industries.
+
+Q3: Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists or nurses?
+Answer:
+Human-AI collaboration in healthcare combines the diagnostic power of AI with the empathy, intuition, and contextual understanding of human professionals.
+
+Radiologists: AI can automatically detect anomalies in scans (e.g., tumors in X-rays or MRIs) with high accuracy. Instead of replacing radiologists, AI becomes an assistive tool — allowing them to focus on complex cases, reduce errors, and handle more patients efficiently.
+
+Nurses: AI-powered systems like virtual health assistants can monitor vital signs, remind patients to take medication, or flag early signs of deterioration. This allows nurses to dedicate more time to direct patient care and emotional support.
+
+Societal impact:
+
+Improved early detection and treatment outcomes.
+
+Reduced workload and burnout for healthcare workers.
+
+Potential ethical concerns about data privacy, bias in algorithms, and job redesign.
+
+A shift towards more patient-centered care where humans focus on compassion and communication, while AI handles routine or data-heavy tasks.
+
+Case Study Critique: AI in Smart Cities
+Topic: AI-IoT for Traffic Management
+
+Analysis:
+Integrating AI with IoT in traffic management combines real-time data from sensors, cameras, and connected vehicles with intelligent algorithms to optimize traffic flow.
+
+This can:
+
+Reduce congestion by adjusting traffic signals dynamically.
+
+Lower fuel consumption and emissions, contributing to urban sustainability.
+
+Improve emergency vehicle routing and accident response times.
+
+Two challenges:
+
+Data Security & Privacy: Massive amounts of data collected from vehicles and public spaces pose risks of unauthorized access or misuse.
+
+Infrastructure Costs & Maintenance: Upgrading city infrastructure with IoT devices and AI systems requires significant investment and continuous maintenance to ensure reliability and scalability.
+
